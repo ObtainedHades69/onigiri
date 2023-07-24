@@ -75,7 +75,7 @@ export const config = {
     // Other Configs.
 
     // search engine to use, 'duckduckgo'/'google'/'brave'/'bing'
-    searchEngine: 'duckduckgo',
+    searchEngine: 'google',
     // show or hide the footer.
     showFooter: true,
     // --------------------------------------------------
